@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">WI-FI chatting</string>
+    <string name="service_id">com.example.ivanovalexandr.finalproject.service</string>
+    <string name="main_button_advertising">start advertising</string>
+    <string name="main_button_discovering">start discovering</string>
+    <string name="main_button_chat">go to chat</string>
+    <string name="setting_anonymous_check_box">use a nickname \n (if you use a standard off the nickname «anonymous»)</string>
+    <string name="save">save</string>
+    <string name="nickname">nickName</string>
+    <string name="your_nickname">Your nickName:</string>
+    <string name="send">send</string>
+    <string name="input_your_message">input your message</string>
+    <string name="settings">settings</string>
+    <string name="anonymous">anonymous</string>
+    <string name="connection_request">Connection Request</string>
+    <string name="want_connect_to">"Do you want to connect to "</string>
+    <string name="connect">Connect</string>
+    <string name="no">No</string>
+    <string name="endpoints_found">EndPoint(s) Found</string>
+    <string name="cancel">Cancel</string>
+    <string name="try_again">sorry, try again in a few moments</string>
+    <string name="already_advertising">ALREADY ADVERTISING</string>
+    <string name="already_discovering">ALREADY DISCOVERING</string>
+    <string name="connected_to">"Connected to "</string>
+    <string name="you_not_anonymous">you are not anonymous</string>
+    <string name="you_anonymous">you are anonymous</string>
+</resources>

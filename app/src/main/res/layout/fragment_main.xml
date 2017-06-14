@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_buttons"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true"
+    android:layout_centerVertical="true"
+    android:orientation="vertical"
+    android:weightSum="1"
+    android:layout_gravity="center_vertical">
+
+    <Button
+        style="@style/mainButton"
+        android:id="@+id/button_advertising"
+        android:text="@string/main_button_advertising"
+        android:enabled="true" />
+
+    <Button
+        style="@style/mainButton"
+        android:id="@+id/button_discovering"
+        android:text="@string/main_button_discovering"
+        android:enabled="true" />
+
+    <Button
+        style="@style/mainButton"
+        android:id="@+id/button_chat"
+        android:text="@string/main_button_chat"
+        android:enabled="true" />
+
+    <Button
+        style="@style/mainButton"
+        android:id="@+id/button_settings"
+        android:text="@string/settings" />
+
+
+</LinearLayout>
